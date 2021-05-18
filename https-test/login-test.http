@@ -1,0 +1,3 @@
+###
+GET http://localhost:9000/userState?id=7&state=false
+Accept: application/json
